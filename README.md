@@ -1,9 +1,5 @@
 # Rufus for Linux
-An effor to bring Pete's Rufus to Linux
-
-###DEVELOPMENT HALTED
-
-Lack of free time.
+An effort to bring Pete Batard's Rufus to Linux
 
 ![alt text](http://i.imgur.com/QeBfuuh.png "Logo Title Text 1")
 
