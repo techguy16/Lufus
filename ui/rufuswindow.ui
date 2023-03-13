@@ -9,7 +9,7 @@
    </sizepolicy>
   </property>
   <property name="windowTitle">
-   <string>Rufusl 0.1</string>
+   <string>Lufus 0.1.21 Alpha</string>
   </property>
   <widget class="QWidget" name="container">
    <property name="enabled">
