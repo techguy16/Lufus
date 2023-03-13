@@ -13,7 +13,7 @@ extern "C" {
 
 #define SKIP_ROOT_CHECK
 
-#define RUFUSL_VERSION "0.1.20 Alpha"
+#define RUFUSL_VERSION "0.1.21 Alpha"
 #define MKFS_VERSION "4.0"
 
 Log *logptr; /* Forward declaration */
