@@ -1,5 +1,5 @@
 #define _XOPEN_SOURCE 500
-#define _BSD_SOURCE
+#define _DEFAULT_SOURCE
 
 #include <dirent.h>
 #include <errno.h>
@@ -11,6 +11,7 @@
 #include <string.h>
 #include <sys/mount.h>
 #include <sys/stat.h>
+#include <sys/sysmacros.h>
 #include <sys/types.h>
 #include <unistd.h>
 
